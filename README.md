@@ -14,6 +14,7 @@ Transformers belong to the big family of deep learning (deep neural networks). C
 
 
 **2019**
+
 2019-NIPS-[Are sixteen heads really better than one?](https://arxiv.org/abs/1905.10650)
 
 
@@ -21,17 +22,17 @@ Transformers belong to the big family of deep learning (deep neural networks). C
 
 
 **2021**
-2021-KDDw-[Vision Transformer Pruning](https://arxiv.org/abs/2104.08500)
-2021.05-[MLPruning: A Multilevel Structured Pruning Framework for Transformer-based Model](https://arxiv.org/abs/2105.14636) [[Code](https://github.com/yaozhewei/MLPruning)]
-2021.09-[HFSP: A Hardware-friendly Soft Pruning Framework for Vision Transformers](https://openreview.net/forum?id=dhLChxJwgMR)
-2021.11-[Pruning Self-attentions into Convolutional Layers in Single Path](https://arxiv.org/abs/2111.11802) [[Code](https://github.com/ziplab/SPViT)]
+- 2021-KDDw-[Vision Transformer Pruning](https://arxiv.org/abs/2104.08500)
+- 2021.05-[MLPruning: A Multilevel Structured Pruning Framework for Transformer-based Model](https://arxiv.org/abs/2105.14636) [[Code](https://github.com/yaozhewei/MLPruning)]
+- 2021.09-[HFSP: A Hardware-friendly Soft Pruning Framework for Vision Transformers](https://openreview.net/forum?id=dhLChxJwgMR)
+- 2021.11-[Pruning Self-attentions into Convolutional Layers in Single Path](https://arxiv.org/abs/2111.11802) [[Code](https://github.com/ziplab/SPViT)]
 
 
 **2022**
-2022-ICLR-[Unified Visual Transformer Compression](https://openreview.net/forum?id=9jsZiUgkCZP)
-2022-CVPR-[Patch Slimming for Efficient Vision Transformers](https://arxiv.org/abs/2106.02852)
-2022-NIPS-[Fast Vision Transformers with HiLo Attention](https://arxiv.org/abs/2205.13213) [[Code](https://github.com/ziplab/LITv2)]
-2022-NIPS-[EcoFormer: Energy-Saving Attention with Linear Complexity](https://arxiv.org/abs/2209.09004) [[Code](https://github.com/ziplab/EcoFormer)]
+- 2022-ICLR-[Unified Visual Transformer Compression](https://openreview.net/forum?id=9jsZiUgkCZP)
+- 2022-CVPR-[Patch Slimming for Efficient Vision Transformers](https://arxiv.org/abs/2106.02852)
+- 2022-NIPS-[Fast Vision Transformers with HiLo Attention](https://arxiv.org/abs/2205.13213) [[Code](https://github.com/ziplab/LITv2)]
+- 2022-NIPS-[EcoFormer: Energy-Saving Attention with Linear Complexity](https://arxiv.org/abs/2209.09004) [[Code](https://github.com/ziplab/EcoFormer)]
 
 ## Other Resources:
 - [ViT-cifar10-pruning](https://github.com/Cydia2018/ViT-cifar10-pruning)
