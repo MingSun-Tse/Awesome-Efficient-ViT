@@ -36,6 +36,7 @@ Transformers belong to the big family of deep learning (deep neural networks). C
 - 2022-ECCV-[An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448)
 - 2022-NIPS-[Fast Vision Transformers with HiLo Attention](https://arxiv.org/abs/2205.13213) [[Code](https://github.com/ziplab/LITv2)]
 - 2022-NIPS-[EcoFormer: Energy-Saving Attention with Linear Complexity](https://arxiv.org/abs/2209.09004) [[Code](https://github.com/ziplab/EcoFormer)]
+- 2022-NIPS-[EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191) [[Code](https://github.com/snap-research/EfficientFormer)]
 
 ## Other Resources:
 - [ViT-cifar10-pruning](https://github.com/Cydia2018/ViT-cifar10-pruning)
