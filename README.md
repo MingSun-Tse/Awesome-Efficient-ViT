@@ -29,6 +29,7 @@ Transformers belong to the big family of deep learning (deep neural networks). C
 - 2022-AAAI-[Less is More: Pay Less Attention in Vision Transformers](https://arxiv.org/abs/2105.14217)
 - 2022-ICLR-[Unified Visual Transformer Compression](https://openreview.net/forum?id=9jsZiUgkCZP)
 - 2022-CVPR-[Patch Slimming for Efficient Vision Transformers](https://arxiv.org/abs/2106.02852)
+- 2022-CVPR-[MiniViT: Compressing Vision Transformers with Weight Multiplexing](https://arxiv.org/abs/2204.07154)
 - 2022-ECCV-[An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448)
 - 2022-NIPS-[Fast Vision Transformers with HiLo Attention](https://arxiv.org/abs/2205.13213) [[Code](https://github.com/ziplab/LITv2)]
 - 2022-NIPS-[EcoFormer: Energy-Saving Attention with Linear Complexity](https://arxiv.org/abs/2209.09004) [[Code](https://github.com/ziplab/EcoFormer)]
@@ -36,7 +37,6 @@ Transformers belong to the big family of deep learning (deep neural networks). C
 
 ## Other Resources:
 - [ViT-cifar10-pruning](https://github.com/Cydia2018/ViT-cifar10-pruning)
-
 
 ## Related Repos and Websites
 - [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
