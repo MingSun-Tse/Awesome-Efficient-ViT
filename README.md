@@ -18,6 +18,7 @@ Transformers belong to the big family of deep learning (deep neural networks). C
 
 **2021**
 - 2021-KDDw-[Vision Transformer Pruning](https://arxiv.org/abs/2104.08500)
+- 2021-TCPS-[TPrune: Efficient transformer pruning for mobile devices](https://dl.acm.org/doi/pdf/10.1145/3446640)
 - 2021.05-[MLPruning: A Multilevel Structured Pruning Framework for Transformer-based Model](https://arxiv.org/abs/2105.14636) [[Code](https://github.com/yaozhewei/MLPruning)]
 - 2021.07-[Learning Efficient Vision Transformers via Fine-Grained Manifold Distillation]()
 - 2021.09-[HFSP: A Hardware-friendly Soft Pruning Framework for Vision Transformers](https://openreview.net/forum?id=dhLChxJwgMR)
