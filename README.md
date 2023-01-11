@@ -1,8 +1,7 @@
-# Efficient-Transformers
-A collection of recent methods on efficient transformers.
+# Awesome Efficient ViT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of recent papers on efficient vision transformers.
 
 Transformers belong to the big family of deep learning (deep neural networks). Conceivably, we would see many papers under the umbrella of *efficient transformers* are actually reusing the techniques invented before for *efficient deep learning*. Welcome to check the [paper collection on efficient deep learning](https://github.com/MingSun-Tse/Efficient-Deep-Learning)!
-
 
 ## Surveys
 - 2020.09-[Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
@@ -24,7 +23,6 @@ Transformers belong to the big family of deep learning (deep neural networks). C
 - 2021.09-[HFSP: A Hardware-friendly Soft Pruning Framework for Vision Transformers](https://openreview.net/forum?id=dhLChxJwgMR)
 - 2021.11-[Pruning Self-attentions into Convolutional Layers in Single Path](https://arxiv.org/abs/2111.11802) [[Code](https://github.com/ziplab/SPViT)]
 - 2021.11-[A Memory-saving Training Framework for Transformers](https://arxiv.org/abs/2111.11124) [[Code](https://github.com/ziplab/Mesa)]
-
 
 **2022**
 - 2022-AAAI-[Less is More: Pay Less Attention in Vision Transformers](https://arxiv.org/abs/2105.14217)
